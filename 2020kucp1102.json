@@ -1,0 +1,78 @@
+{
+    "basics": {
+        "name": "Dipesh Kumar",
+        "label": "Student",
+	"picture": "https://media-exp1.licdn.com/dms/image/C4E03AQEbjIZ6_OnrCQ/profile-displayphoto-shrink_400_400/0/1619589545621?e=1632960000&v=beta&t=BzfYm9xYXu76d9ZURT6ZfFHdE7ziZPi5tVk9StRJrA8",
+        "email": "2020kucp1102@iiitkota.ac.in",
+        "phone": "+91 9354162566",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
+        "location": {
+            "address": "Kosli",
+            "postalCode": "123302",
+            "city": "Rewari",
+            "countryCode": " India",
+            "region": "Haryana"
+        },
+        "profiles": [
+                {
+                "network": "Github",
+                "username": "DipeshKumarDK",
+                "url": "https://www.github.com/DipeshKumarDK"
+            },
+            {
+                "network": "linkedin",
+                "username": "Dipesh Kumar",
+                "url": "https://www.linkedin.com/in/dipesh-kumar-b8580020b"
+            },
+            {
+                "network": "Instagram",
+                "username": "dk_dipesh_kumar",
+                "url": "https://www.instagram.com/dk_dipesh_kumar/"
+            }
+        ]
+    },
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor of Technology",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "level": "Beginner",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "C/C++",
+                "Javascript"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Music",
+            "keywords": [
+                "Music"
+            ]
+        },
+        {
+            "name": "Sports",
+            "keywords": [
+                "Cricket",
+                "Volleyball",
+		        "Football"
+            ]
+        }
+    ],
+    "references": []
+}
