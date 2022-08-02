@@ -48,7 +48,9 @@
                 "HTML",
                 "CSS",
                 "C/C++",
-                "Javascript"
+                "Javascript",
+		"React js"
+		"MERN Stack"
             ]
         }
     ],
@@ -70,7 +72,7 @@
             "keywords": [
                 "Cricket",
                 "Volleyball",
-		        "Football"
+		"Football"
             ]
         }
     ],
